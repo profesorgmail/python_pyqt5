@@ -3,4 +3,5 @@ Clase que realiza operaciones básicas
 """
 
 class operations():
-    pass
+    def sumaria(*args):
+        return sum(args)
